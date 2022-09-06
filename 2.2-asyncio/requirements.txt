@@ -1,3 +1,0 @@
-aiosqlite3
-aiosmtplib
-more_itertools
